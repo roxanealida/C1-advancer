@@ -32,26 +32,25 @@ words_ar = [translator.translate(word, dest = "ar").text for word in words]
 
 #These words are now written into separate files.
 
-with open("Portuguese_words.txt", "w", encoding= "utf-8") as f:
-    for i in words_pt:
+with open("French_words.txt", "w", encoding= "utf-8") as f:
+    for i in words_fr:
         f.write(i)
         f.write("\n")
 
+with open("Spanish_words.txt", "w", encoding= "utf-8") as g:
+    for i in words_es:
+        g.write(i)
+        g.write("\n")
 
-with open("Portuguese_words.txt", "w", encoding= "utf-8") as f:
+with open("Portuguese_words.txt", "w", encoding= "utf-8") as h:
     for i in words_pt:
-        f.write(i)
-        f.write("\n")
+        h.write(i)
+        h.write("\n")
 
-with open("Portuguese_words.txt", "w", encoding= "utf-8") as f:
-    for i in words_pt:
-        f.write(i)
-        f.write("\n")
-
-with open("Arabic_words.txt", "w", encoding= "utf-8") as f:
+with open("Arabic_words.txt", "w", encoding= "utf-8") as j:
     for i in words_ar:
-        f.write(i)
-        f.write("\n")
+        j.write(i)
+        j.write("\n")
 
 
 #and finally, all translations are arrayed into a dataframe.
