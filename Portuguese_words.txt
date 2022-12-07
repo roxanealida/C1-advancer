@@ -3,8 +3,8 @@ aborto
 ausência
 ausente
 absurdo
-Abuso
-Academia
+abuso
+academia
 acelerar
 aceitação
 acessível
@@ -167,10 +167,10 @@ transporte
 esculpir
 cassino
 acidente
-Catálogo
+catálogo
 atender
 gado
-Cuidado
+cuidado
 cauteloso
 cessar
 cemitério
@@ -805,7 +805,7 @@ nomeação
 candidato
 Não obstante
 sem fins lucrativos
-Absurdo
+absurdo
 meio-dia
 notável
 notavelmente

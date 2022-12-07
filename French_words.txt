@@ -1,9 +1,9 @@
 abolir
-Avortement
+avortement
 absence
 absent
 absurde
-abuser de
+abus
 académie
 accélérer
 acceptation
@@ -18,9 +18,9 @@ accusation
 accusé
 acide
 acquisition
-Activation
+activation
 activiste
-aigu
+aiguë
 adaptation
 adhérer
 adjacent
@@ -29,25 +29,25 @@ administrer
 administratif
 administrateur
 admission
-adolescente
+adolescent
 adoption
-négatif
-avocat
+défavorable
+défenseur
 esthétique
 affection
-conséquences
+séquelles
 agression
 agricole
 aide
 alerte
-extraterrestre
+étranger
 aligner
 alignement
-ressemblent
+similaire
 allégation
 alléguer
 prétendument
-Alliance
+alliance
 allouer
 allocation
 allocation
@@ -55,19 +55,19 @@ allié
 aluminium
 amateur
 ambassadeur
-modifier
+amender
 amendement
-parmi
+entre
 analogie
-ancre
+ancrer
 ange
 anonyme
 appareil
-vêtements
-attirant
+vêtement
+appétissant
 appétit
 applaudir
-en vigueur
+applicable
 nommer
 appréciation
 arbitraire
@@ -75,7 +75,7 @@ architectural
 archive
 arène
 bras
-déployer
+réseau
 articuler
 cendre
 aspiration
@@ -83,119 +83,119 @@ aspirer
 assassinat
 assaut
 assembler
-Assemblée
+assemblage
 affirmer
 affirmation
 assurance
 asile
 atrocité
-au moins
+atteindre
 présence
 attribut
-enchères
-Audit
+vente aux enchères
+audit
 authentique
 autoriser
 auto
 autonomie
-l'automne
+automne
 disponibilité
 attendre
 toile de fond
-support
+backing
 sauvegarde
 caution
-bulletin de vote
-la faillite
+vote
+faillite
 bannière
-juste
+nu
 baril
 basse
-une
+chauve-souris
 champ de bataille
-la baie
-rayonner
-la bête
-au nom de
+baie
+faisceau
+bête
+nom
 comportemental
 bien-aimé
 banc
-référence
+repère
 sous
-Bénéficiaire
+bénéficiaire
 trahir
 boisson
 lier
-Biographie
+biographie
 évêque
 bizarre
 lame
-explosion
-saigner
+blast
+saignement
 mélange
+blesser
 bénir
-bénédiction
-se vanter
-prime
-réservation
+boast
+bonus
+booking
 boom
 rebondir
-frontière
+limite
 arc
-violation
-panne
+rupture
+rupture
 percée
-élever
-haut débit
+race
+large bande
 navigateur
 brutal
 copain
-amortir
-en gros
+tampon
+vrac
 charge
 bureaucratie
 enterrement
 éclatement
 cabinet
 calcul
-Toile
-aptitude
+toile
+capacité
 capitalisme
 capitaliste
 cargaison
-le chariot
-tailler
+cargaison
+sculpter
 casino
-victime
+accidenté
 catalogue
-approvisionner
+traiteur
 bétail
-mise en garde
-prudent
+prudence
+prudence
 cesser
 cimetière
 chambre
-le chaos
+chaos
 caractériser
 charme
 charte
 chorale
 chronique
-tronçon
+chunk
 circuler
 circulation
 citoyenneté
 civique
 civil
 clarté
-choc
+conflit
 classification
-se cramponner
+clivage
 clinique
 fermeture
-groupe
+cluster
 coalition
-côtier
+côte
 cocktail
 cognitif
 coïncider
@@ -204,108 +204,108 @@ collaboration
 collectif
 collision
 colonial
-journaliste
+chroniqueur
 combat
-commence
+commencer
 commentaire
 commentateur
 commerce
-le commissaire
-produit de base
+commissaire
+marchandise
 communiste
-un compagnon
+compagnon
 comparable
 compassion
 contraindre
-irrésistible
+contraignant
 compenser
 compensation
 compétence
 compétent
 compiler
-complément
+compléter
 complexité
 conformité
 complication
-conformer
+se conformer
 composition
-faire des compromis
+compromis
 calculer
-cacher
+dissimuler
 concéder
 concevoir
 conception
 concession
 condamner
 conférer
-confession
+aveu
 configuration
 confiner
 confirmation
-affronter
-affrontement
+confronter
+confrontation
 féliciter
 congrégation
-du congrès
+congrès
 conquérir
 conscience
 conscience
 consécutif
 consensus
 consentement
-conserve
+conserver
 cohérence
 consolider
 constituer
-Constitution
+constitution
 constitutionnel
 contrainte
 consultation
 contempler
 mépris
-combattre
-concurrent
+contender
+contender
 contenu
-contention
+contestation
 continuellement
-prestataire
+contractant
 contradiction
 contraire
-donateur
+contributeur
 conversion
-condamné
-conviction
+condamner
+condamnation
 coopérer
-coopérative
+coopérer
 coordonner
 coordination
 coordinateur
 cuivre
-droits d'auteur
+copyright
 correction
-corrélatif
 corrélation
-correspond
+corrélation
+correspondre
 correspondance
-correspondent
+correspondant
 correspondant
 corrompu
-la corruption
-cher
+corruption
+coûteux
 conseiller
-conseils
 conseiller
-compteur
-homologue
+conseiller
+contre
+contrepartie
 innombrable
 coup
 courtoisie
 artisanat
-crawl
+ramper
 créateur
 crédibilité
 crédible
-fluer
+rampant
 critique
 couronne
 brut
@@ -315,39 +315,39 @@ culte
 cultiver
 curiosité
 garde
-Coupe
+couper
 cynique
-endiguer
+barrage
 dommageable
 aube
 débris
 début
-la prise de décision
+prise de décision
 décisif
 déclaration
 dédié
-dévouement
+dédicace
 acte
-considérer
+juger
 défaut
 défaut
 défensive
-carence
+déficience
 déficit
-defier
-déléguer
+défier
+délégué
 délégation
 délicat
 démon
-le déni
+déni
 dénoncer
 dense
 densité
 dépendance
-représenter
+dépeindre
 déployer
 déploiement
-priver
+déprivation
 adjoint
 descendre
 descente
@@ -357,7 +357,7 @@ bureau
 destructeur
 détenir
 détection
-retenue
+détention
 détériorer
 dévaster
 diable
@@ -370,38 +370,38 @@ différencier
 dignité
 dilemme
 dimension
-talon
-tremper
+diminuer
+plonger
 diplomate
 diplomatique
-annuaire
-catastrophique
-Jeter
+répertoire
+désastreux
+rejeter
 décharge
 divulguer
 divulgation
 discours
 discrétion
 discrimination
-congédiement
-déplacer
+licenciement
+déplacement
+élimination
 disposition
-dispose
-contestation
+litige
 perturber
 perturbation
 dissoudre
 distinction
 distinctif
-fausser
+déformer
 détresse
-inquiétant
-dérouter
-Divin
+déranger
+détourner
+divin
 doctrine
-Documentation
+documentation
 domaine
-dominance
+domination
 donneur
 dose
 drain
@@ -409,27 +409,27 @@ dérive
 conduite
 noyer
 double
-doubler
-stupide
+dub
+idiot
 duo
 dynamique
 gains
-faciliter
+facilité
 écho
 écologique
 éducateur
 efficacité
-Efficacité
+efficacité
 ego
 élaborer
 électoral
 élever
-admissible
+éligible
 élite
 embarquer
-embarras
+embarquer
 ambassade
-intégrer
+embarquer
 incarner
 émergence
 empirique
@@ -437,34 +437,34 @@ habiliter
 promulguer
 englober
 encouragement
-encourageant
-effort
+encourager
+s'efforcer
 sans fin
 endosser
-approbation
-supporter
-imposer
-mise en vigueur
+endossement
+endurer
+appliquer
+application
 engagement
-engageant
+engager
 enrichir
-inscrire
-résulter
+s'inscrire
+ensue
 entreprise
-passionné
-donner droit
+enthousiaste
+entitle
 entité
 épidémie
 égalité
 équation
 ériger
-intensifier
+escalader
 essence
 établissement
 éternel
 évacuer
 évoquer
-évolutionniste
+évolutif
 exagérer
 excellence
 exceptionnel
@@ -475,7 +475,7 @@ exclusivement
 exécuter
 exécution
 exercer
-exilé
+exiler
 dépense
 expérimental
 expirer
@@ -483,103 +483,103 @@ explicite
 explicitement
 exploitation
 explosif
-extrait
+extraire
 extrémiste
 faciliter
 faction
-disparaître
-justice
-mortel
-sort
+s'effacer
+équité
+fatal
+destin
 favorable
 exploit
-crime
+félonie
 féministe
 fibre
 féroce
-réalisateur
+cinéaste
 filtre
-bien
+fin
 arme à feu
 fiscal
-adapter
+ajustement
 défaut
 défectueux
 fuir
 flotte
 chair
-souplesse
-fleurir
+flexibilité
+s'épanouir
 fluide
-images
+métrage
 étranger
 forger
 formule
 formuler
-en avant
+à venir
 à venir
 favoriser
 fragile
-la franchise
+franchise
 franchement
-étudiant de première année
+première année
 frustré
 frustrant
 frustration
 fonctionnel
 collecte de fonds
-funéraire
-jeux d'argent
-la cueillette
+funérailles
+jeu d'argent
+rassemblement
 regard
 équipement
 générique
 génocide
-concert
+gig
+regard
 coup d'œil
-cligner
 glorieux
 gloire
 gouvernance
-la grâce
+grâce
 saisir
-la tombe
-la tombe
-la gravité
-la grille
-douleur
-sourire
-moudre
-saisir
+grave
+grave
+gravité
+grille
+chagrin
+rictus
+grinder
+adhérer
 brut
 guérilla
-conseils
+guidance
 culpabilité
 intestin
 grêle
 à mi-chemin
-arrêt
+halte
 poignée
-manutention
-pratique
+manipulation
+maniable
 harcèlement
-Matériel
+matériel
 harmonie
-dur
-récolter
+sévère
+récolte
 haine
 hanter
-risquer
+danger
 augmenter
 patrimoine
 hiérarchie
 haut profil
 indice
 patrie
-accrocher
-optimiste
+hameçon
+espoir
 horizon
-klaxon
+corne
 otage
 hostile
 hostilité
@@ -595,7 +595,7 @@ ignorance
 imagerie
 immense
 imminent
-la mise en oeuvre
+mise en œuvre
 emprisonner
 incapacité
 inadéquat
@@ -607,24 +607,24 @@ incliné
 inclusion
 encourir
 indicateur
-accusation
+mise en accusation
 indigène
 induire
-se livrer
+complaisance
 inégalité
 infâme
-nourrisson
+enfant
 infecter
 infliger
 influent
 inhérent
 inhiber
-lancer
+initier
 injecter
 injection
 injustice
 détenu
-renseigner
+enquêter
 insertion
 initié
 inspecter
@@ -638,9 +638,9 @@ insuffisant
 insulte
 intact
 admission
-intégral
+intégrale
 intégré
-l'intégration
+intégration
 intégrité
 intellectuel
 intensifier
@@ -650,7 +650,7 @@ intention
 interactif
 interface
 interférer
-ingérence
+interférence
 intérimaire
 intérieur
 intermédiaire
@@ -658,47 +658,47 @@ intersection
 intervenir
 intervention
 intime
-intrigant
+intriguant
 inventaire
 enquêteur
 invisible
 invoquer
-participation
+implication
 ironique
-ironiquement
+ironique
 ironie
-hors du sujet
-isolation
+non pertinent
+isolement
 judiciaire
 juridiction
 juste
 justification
-enthousiaste
-kidnapper
-un rein
-Royaume
+vif
+kidnapping
+rein
+royaume
 propriétaire
 repère
-tour
+lap
 grande échelle
 laser
 dernier
 législateur
 pelouse
 procès
-disposition
+mise en page
 fuite
 saut
 héritage
 légendaire
 législation
-législatif
-corps législatif
+législation
+législature
 légitime
-longue
+long
 lesbienne
 moindre
-mortel
+létale
 responsable
 libéral
 libération
@@ -707,58 +707,58 @@ liberté
 probabilité
 membre
 linéaire
-s'aligner
-s'attarder
-référencement
+lineup
+linger
+listing
 litre
-l'alphabétisation
+alphabétisation
 foie
-hall
-Journal
+lobby
+log
 logique
 de longue date
-longue durée
-métier à tisser
+de longue date
+loom
 boucle
 loyauté
-machinerie
+machine
 magique
 magnétique
 magnifique
-ordre de grandeur
-continent
-courant dominant
-maintenance
+magnitude
+continentale
+courant principal
+entretien
 mandat
 obligatoire
-manifeste
+manifester
 manipuler
 manipulation
 manuscrit
-Mars
+mars
 marginal
-Marin
+marine
 marché
 masque
 massacre
 mathématique
 mature
 maximiser
-significative
-entre temps
+significatif
+entre-temps
 médiéval
 méditation
 mélodie
-note
+mémo
 mémoire
-Mémorial
+mémorial
 mentor
-marchande
+marchand
 miséricorde
-Suite
-seulement
+simple
+simplement
 fusionner
-fusionnement
+fusion
 mérite
 méthodologie
 milieu
@@ -775,8 +775,8 @@ miracle
 misère
 trompeur
 missile
-la douleur
-portable
+foule
+mobile
 mobilité
 mobiliser
 modéré
@@ -788,34 +788,34 @@ monopole
 moralité
 motif
 municipal
-mutuel
+mutuelle
 à savoir
-à l'échelle nationale
+national
 naval
-la négligence
+négligence
 voisin
 nid
-rapporter
-bulletin
+net
+newsletter
 niche
 noble
-hochement
-désigner
+acquiescer
+nommer
 nomination
-candidat
+nominé
 néanmoins
-non lucratif
-absurdité
+à but non lucratif
+non-sens
 midi
 notable
 notamment
 notifier
-célèbre
+notoire
 roman
-garderie
+pépinière
 objection
-oblige
-obséder
+obliger
+obsession
 obsession
 occasionnel
 occurrence
@@ -823,42 +823,42 @@ chances
 offre
 progéniture
 opérationnel
-opter
+opt
 optique
 optimisme
 oral
 organisationnel
 orientation
-provenir
-épidémie
+origine
+éclosion
 sortie
 sortie
-perspectives
+perspective
 outrage
 outsider
 négliger
 trop
 superviser
 renverser
-submerger
+écraser
 accablant
-tampon
+pad
 paramètre
 parental
 parlement
 partiel
-partiellement
-qui passe
+partiel
+passant
 passif
 pasteur
 brevet
 sentier
 patrouille
 patron
-de pointe
+pic
 paysan
 particulier
-Pension
+pension
 persister
 persistant
 personnel
@@ -869,26 +869,26 @@ pionnier
 pipeline
 pirate
 fosse
-plaidoyer
+plaider
 plaider
 gage
-prise de courant
+boucher
 plonger
-il n'y a pas
+poteau
 sondage
 étang
-populaire
+pop
 portefeuille
 représenter
-reporter
-après la guerre
+postpone
+après-guerre
 praticien
 prêcher
 précédent
 précision
 prédateur
 prédécesseur
-principalement
+prédominance
 grossesse
 préjudice
 préliminaire
@@ -897,65 +897,65 @@ prémisse
 prime
 prescrire
 prescription
-présentement
-préservation
+actuellement
+présider
 présider
 présidence
 prestigieux
-probablement
+vraisemblablement
 présumer
 prévaloir
 prévalence
-la prévention
+prévention
 proie
 privatisation
 privilège
-sonde
+sonder
 problématique
-procéder
+procédure
 produit
-En traitement
+traitement
 processeur
 proclamer
 productif
 productivité
-rentable
+profitable
 profond
 projection
-éminent
+proéminent
 prononcé
-la propagande
+propagande
 proposition
 poursuivre
 poursuite
 procureur
-éventuel
+prospective
 prospérité
-protecteur
+protection
 protocole
-Province
+province
 provincial
-disposition
+provision
 provoquer
 psychiatrique
-impulsion
+pouls
 pompe
 coup de poing
-requête
+questionner
 quête
 quota
 radar
 radical
 rage
 raid
-se rallier
+rallye
 classement
-râpé
-rapport
+viol
+ratio
 rationnel
 rayon
 facilement
-la concrétisation
+réalisation
 royaume
 arrière
 raisonnement
@@ -964,87 +964,87 @@ rebelle
 rébellion
 destinataire
 reconstruction
-raconter
+récit
 recrutement
 référendum
 réflexion
 réforme
 refuge
 refus
-reconquérir
-quel que soit
+reprise
+malgré tout
 régime
 régulateur
-réglementaire
+régulateur
 réhabilitation
 règne
 rejet
 pertinence
 fiabilité
-ils hésitent
+réticent
 reste
-restes
+reste
 remède
 rappel
-suppression
+retrait
 rendre
 renouveler
 renommé
 remplacement
-aurait
+rapporté
 représentation
 reproduire
-la reproduction
+reproduction
 république
-ressembler
+ressembler à
 résider
 résidence
-Résidentiel
+résidence
 résidu
-démission
-la résistance
-respectif
+résignation
+résistance
+respectivement
 respectivement
 restauration
 retenue
-CV
-battre en retraite
+reprise
+retraite
 récupérer
 révélation
 vengeance
-inverse
-la relance
-relancer
+inverser
+revivre
+revivre
 révolutionnaire
 rhétorique
 fusil
 émeute
-repose en paix
+déchirer
 rituel
 robuste
-rock
-canne à pêche
-débutant
-liste
-tourner
+rocher
+rod
+rookie
+roster
+rotation
 rotation
 décision
 rumeur
 sacré
 sacrifice
 saint
-Saké
+saké
 sanction
 dire
 dispersé
 portée
 vis
-examen minutieux
+examen
 sceller
-en deuxième
-séculier
+deuxièmement
+séculaire
 apparemment
-segment
+segmenter
 saisir
 rarement
 sélectif
@@ -1052,68 +1052,68 @@ sensation
 sensibilité
 sentiment
 séparation
-en série
+série
 règlement
-mettre en place
+installation
 sexualité
 actionnaire
 briser
-hangar
-virer
+verser
+pure
 expédition
 tirer
 rétrécir
 hausser les épaules
-soupir
+soupirer
 simuler
 simulation
 simultanément
-péché
+sin
 situé
 sceptique
-esquisser
+esquisse
 sauter
 claquer
 gifler
-sabrer
+slash
 esclavage
-insérer
-fracasser
-instantané
-tremper
+fente
+smash
+snap
+soak
 monter
 socialiste
-Unique
+seul
 uniquement
 solidarité
-seulement
+solo
 deuxième année
-du son
-la souveraineté
-Spam
-envergure
-de rechange
+son
+souveraineté
+spam
+span
+spare
 étincelle
 spécialisé
 spécification
 spécimen
-spectacle
+lunettes
 spectre
 sort
 sphère
-tournoyer
-la colonne vertébrale
+spin
+colonne vertébrale
 projecteur
 conjoint
-espionner
-équipe
+espion
+escouade
 presser
-coup de couteau
-la stabilité
+poignarder
+stabilité
 stabiliser
-pieu
+piquet
 debout
-rigide
+stark
 statistique
 diriger
 tige
@@ -1121,15 +1121,15 @@ stéréotype
 stimulus
 remuer
 stockage
-directe
+simple
 souche
 brin
 stratégique
-frappant
-déshabiller
-déshabiller
-aspirer
-de construction
+frappe
+bande
+bande
+s'efforcer
+structurel
 trébucher
 étourdir
 soumission
@@ -1138,54 +1138,54 @@ abonnement
 subvention
 substantiel
 substantiellement
-remplaçant
+substitut
 substitution
 subtile
-de banlieue
-Succession
+banlieue
+succession
 successif
 successeur
 sucer
-poursuivre en justice
+poursuivre
 suicide
 suite
 sommet
 superbe
-surveillant général
+superintendant
 supérieur
 superviser
-surveillance
+supervision
 superviseur
-supplément
-favorable
-soi-disant
-réprimer
+compléter
+soutenir
+supposé
+supprimer
 suprême
-surtension
+surge
 chirurgical
 surplus
-abandon
+se rendre
 surveillance
 suspension
-soupçon
-méfiant
+suspicion
+suspect
 soutenir
-se balancer
+balancer
 épée
 symbolique
 syndrome
-la synthèse
+synthèse
 systématique
-s'attaquer à
+tactique
 tactique
 tactique
 contribuable
 tenter
 locataire
-offre
-mandat
-Terminal
-mettre fin
+tender
+tenure
+terminal
+terminer
 terrain
 formidable
 témoigner
@@ -1195,31 +1195,31 @@ heureusement
 théâtral
 théologie
 théorique
-après
+par la suite
 ainsi
 réfléchi
-incitant à la réflexion
-fil de discussion
-au seuil
-content
-s'épanouir
+qui incite à la réflexion
+fil conducteur
+seuil
+ravi
+prospérer
 marée
 serrer
-Charpente
+bois
 opportun
-le tabac
+tabac
 tolérance
 tolérer
-sonner
-Haut
+péage
+haut
 torture
-lancer
+toss
 total
 toxique
 trace
 marque déposée
-Piste
-bande annonce
+trail
+remorque
 transaction
 transcription
 transformation
@@ -1229,47 +1229,47 @@ transparence
 transparent
 traumatisme
 traité
-énorme
+formidable
 tribal
 hommage
-gâchette
+trigger
 trio
-triomphe
+triumph
 trophée
-troublé
-curateur
+en difficulté
+administrateur
 frais de scolarité
 tumeur
-s'avérer
-chiffre d'affaires
-tourner
-inconstitutionnel
-premier cycle
+turnout
+turnover
+torsion
+anticonstitutionnel
+premier cycle universitaire
 sous-jacent
-saper
-indubitablement
+miner
+sans doute
 unifier
 sans précédent
 dévoiler
-A venir
-mise à niveau
-défendre
+à venir
+améliorer
+soutenir
 utilitaire
 utiliser
 tout à fait
-vide
+aspirer
 vague
 validité
 disparaître
 variable
 varié
 veine
-entreprise
+aventure
 verbal
 verdict
-Vérifier
-verset
-contre
+vérifier
+vers
+versus
 navire
 vétéran
 viable
@@ -1286,27 +1286,27 @@ vulnérable
 quartier
 entrepôt
 guerre
-garantir
+warrant
 guerrier
 affaiblir
 tisser
-mauvaise herbe
+weed
 bien
 bien-être
 quoi que ce soit
 par lequel
-fouet
+fouetter
 entièrement
 élargir
 veuve
 largeur
 volonté
 essuyer
-esprit
-Retrait
+wit
+retrait
 entraînement
 culte
 digne d'intérêt
 digne
 crier
-rendement
+produire
