@@ -10,6 +10,7 @@ import pandas as pd
 import arabic_reshaper
 from bidi.algorithm import get_display
 import csv
+import random
 
 #First, the C1 Oxford words are written into the "English_words.txt" file.
 #By doing this, the POS information is excluded.
@@ -80,8 +81,26 @@ choice_mode = input("Do you want to translate or do you want to train today? ")
 
 if choice_mode == "train":
     with open("Df_translations.csv", "r", encoding= "utf-8") as f:
-        line = f.readline()
+        line = f.readline()        
+        lines = f.readlines()
+
         print(line)
+        language = input("Choose which language from above: ")
+        if language == "French":
+            rando = random.randint(1,1312)
+            word_line = lines[rando].split(",")
+            print(f"What is the French word for {word_line[1]}?")
+            input1 = input()
+            if input1 == word_line[2]:
+                print("Good job!")
+            else:
+                input2 = input("Do you want a tip?" )
+                if input2 == "yes":
+                    print(f"The word starts with {word_line[2][:1]}")
+                input3 = input("Next try: ")
+                if input3 == word_line[2]:
+                    print("Good job!")
+                else: print(f"The word was {word_line[2]}")
 
 elif choice_mode == "translate":
     pass
