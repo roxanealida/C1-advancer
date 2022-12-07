@@ -77,30 +77,52 @@ df.to_csv('Df_translations.csv', index=False)
 #2. Algorithm for training
 #3. Algorithm for translating
 
-choice_mode = input("Do you want to translate or do you want to train today? ")
 
-if choice_mode == "train":
-    with open("Df_translations.csv", "r", encoding= "utf-8") as f:
-        line = f.readline()        
-        lines = f.readlines()
+with open("Df_translations.csv", "r", encoding= "utf-8") as f:
+    line = f.readline()        
+    lines = f.readlines()
 
-        print(line)
-        language = input("Choose which language from above: ")
-        if language == "French":
-            rando = random.randint(1,1312)
-            word_line = lines[rando].split(",")
-            print(f"What is the French word for {word_line[1]}?")
-            input1 = input()
-            if input1 == word_line[2]:
-                print("Good job!")
-            else:
-                input2 = input("Do you want a tip?" )
-                if input2 == "yes":
-                    print(f"The word starts with {word_line[2][:1]}")
+#1. Practicing
+language_today = input("Which language do you want to train today? ")
+#repeat_or_new = input("Do you want to repeat past wrong words or learn new ones? ")
+goal = int(input("How many words do you want to train today? "))
+
+'read input, repeating no: means learning with main csv file. but if repeptition French wrong words file'
+
+if language_today == "German":
+    position_of_language = 1
+elif language_today == "French":
+    position_of_language = 2
+elif language_today== "Spanish":
+    position_of_language = 3
+elif language_today == "Portuguese":
+    position_of_language = 4
+elif language_today == "Arabic":
+    position_of_language = 5
+
+def learn_language(): #repeat_boolean
+
+    score = 0
+
+    for n in range(0,goal):
+
+        rando = random.randint(1,1312) #dynamic: length of lines of he text file/csv file
+        word_line = lines[rando].split(",")
+        print(f"What is the {language_today} word for {word_line[0]}?")
+        input1 = input()
+        if input1 == word_line[position_of_language]:
+            print("Good job!")
+            score += 1
+        else:
+            input2 = input("Want a tip? " )
+            if input2 == "yes":
+                print(f"The word starts with {word_line[position_of_language][:1]}")
                 input3 = input("Next try: ")
-                if input3 == word_line[2]:
+                if input3 == word_line[position_of_language]:
                     print("Good job!")
-                else: print(f"The word was {word_line[2]}")
+                else: print(f"The word was {word_line[position_of_language]}")
+            elif input2 == "no":
+                print(f"The word was {word_line[position_of_language]}")
+    print(f"Your task is completed for today, good job! Your score is {score}/{goal}.")
 
-elif choice_mode == "translate":
-    pass
+learn_language()
