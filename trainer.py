@@ -8,12 +8,11 @@ while True:
     train_mode = input("Do you want to repeat past wrong words or learn new ones? (repeat/new) ")
     while True:
         try: 
-            goal = int(input("How many words do you want to train today? "))
+            goal = int(input("How many words do you want to train? "))
             break
         except:
             print("The goal must be an integer.")
             
-
 
     #repeat_or_new = input("Do you want to repeat past wrong words or learn new ones? ")
     #the positions are in lists because in the dataframe there are 5 languages and in the repetition mode there is just En and the language in the file
@@ -76,8 +75,8 @@ while True:
                 
             else:
                 with open(f"Wrong_words_{language_today}.txt", "r+", encoding = ":utf-8") as file:
-                    file.read()
                     if f"{word_line[0]},{word}" not in file.read().splitlines():
+                        file.read()
                         file.write(f"{word_line[0]},{word}\n")
 
                 input2 = input("Want a tip? " )
