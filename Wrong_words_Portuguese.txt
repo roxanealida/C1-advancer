@@ -6,3 +6,4 @@ blast,explosão
 precision,precisão
 eternal,eterno
 reverse,marcha ré
+concession,concessão

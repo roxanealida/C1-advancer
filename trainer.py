@@ -5,6 +5,8 @@ import random
 while True:
 
     language_today = input("Which language do you want to train today? ")
+    if language_today == "end":
+        break
     train_mode = input("Do you want to repeat past wrong words or learn new ones? (repeat/new) ")
     while True:
         try: 
@@ -80,7 +82,7 @@ while True:
                         file.write(f"{word_line[0]},{word}\n")
 
                 input2 = input("Want a tip? " )
-                if input2 in ["yes", "ys", "y", "ye"]:
+                if input2 in ["yes", "ys", "y", "ye", "ja", "j"]:
                     print(f"The word starts with {word[:2]}")
                     input3 = input("Next try: ")
                     if input3 == word:
@@ -91,4 +93,4 @@ while True:
         print(f"Your task is completed for today, great effort! Your score is {score}/{goal}.")
 
     learn_language_new(train_mode)
-
+    

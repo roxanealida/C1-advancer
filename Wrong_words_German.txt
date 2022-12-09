@@ -11,3 +11,8 @@ explosive,explosiv
 heritage,Erbe
 solo,allein
 surrender,ausliefern
+obsession,Besessenheit
+coincide,übereinstimmen
+maintenance,Unterhaltung
+oblige,verpflichten
+plug,stopfen

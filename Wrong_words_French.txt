@@ -12,3 +12,7 @@ mercy,miséricorde
 adverse,défavorable
 mercy,miséricorde
 arbitrary,arbitraire
+civilian,civil
+copper,cuivre
+battlefield,champ de bataille
+spine,colonne vertébrale

@@ -62,3 +62,8 @@ devastate,devastar
 initiate,iniciado
 heritage,herencia
 intervene,intervenir
+obsess,obsesionar
+sustain,sostener
+grasp,sujetar
+bless,bendecir
+decision-making,Toma de decisiones
