@@ -8,8 +8,6 @@ utterly,tout à fait
 compromise,compromis
 grid,grille
 smash,smash
-arbitrary,arbitraire
-arbitrary,arbitraire
 mercy,miséricorde
 adverse,défavorable
 mercy,miséricorde

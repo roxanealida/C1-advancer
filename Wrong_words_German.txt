@@ -1,1 +1,13 @@
 recipient,Empfänger
+grind,mahlen
+supreme,höchste
+grief,trauern
+simulation,simulieren
+intent,Absicht
+stake,abstecken
+suspicious,verdächtig
+assembly,Versammlung
+explosive,explosiv
+heritage,Erbe
+solo,allein
+surrender,ausliefern
