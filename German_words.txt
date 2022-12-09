@@ -46,7 +46,7 @@ ausrichten
 gleich
 Behauptung
 Behauptung
-Angeblich
+angeblich
 Allianz
 zuordnen
 Zuweisung
@@ -146,7 +146,7 @@ Verletzung
 Durchbruch
 Durchbruch
 züchten
-breitband
+Breitband
 Browser
 brutal
 Kumpel
@@ -556,7 +556,7 @@ Guerilla
 Anleitung
 schuld
 Bauch
-hagel
+Hagel
 halbwegs
 Halt
 Handvoll
@@ -567,7 +567,7 @@ Hardware
 Harmonie
 harsch
 ernten
-hass
+Hass
 spuken
 Gefahr
 Erhöhen
@@ -900,7 +900,7 @@ rezeptpflichtig
 gegenwärtig
 Erhaltung
 vorsitz
-präsidentschaft
+Präsidentschaft
 prestigeträchtig
 Vermutlich
 vermuten
@@ -945,7 +945,7 @@ abfragen
 Suche
 Quote
 Radar
-Radikal
+radikal
 Wut
 Razzia
 rallye
@@ -990,12 +990,12 @@ Entfernung
 machen
 erneuern
 bekannt
-ersatz
+Ersatz
 Angeblich
 Darstellung
 reproduzieren
 Reproduktion
-republik
+Republik
 ähneln
 residieren
 Wohnsitz
