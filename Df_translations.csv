@@ -4,7 +4,7 @@ absence,Abwesenheit,absence,ausencia,ausência,غياب
 absent,abwesend,absent,ausente,ausente,غائب
 absurd,absurd,absurde,absurdo,absurdo,سخيف
 abuse,missbrauchen,abus,abuso,abuso,تعاطي
-academy,akademie,académie,academia,academia,الأكاديمية
+academy,Akademie,académie,academia,academia,الأكاديمية
 accelerate,beschleunigen,accélérer,acelerar,acelerar,تسريع
 acceptance,Akzeptanz,acceptation,aceptación,aceitação,قبول
 accessible,zugänglich,accessible,accesible,acessível,يمكن الوصول
@@ -198,7 +198,7 @@ coalition,Koalition,coalition,coalición,aliança,الائتلاف
 coastal,küste,côte,costero,costeiro,ساحلي
 cocktail,cocktail,cocktail,cóctel,coquetel,كوكتيل
 cognitive,kognitiv,cognitif,cognitivo,cognitivo,الإدراكي
-coincide,übereinstimmen,coïncider,coincide,coincidir,تزامن
+coincide,übereinstimmen,correspondre,coincide,coincidir,تزامن
 collaborate,zusammenarbeiten,collaborer,colaborar,colaborar,يتعاون
 collaboration,zusammenarbeiten,collaboration,colaboración,colaboração,تعاون
 collective,kollektiv,collectif,colectivo,coletivo,جماعي
@@ -547,7 +547,7 @@ grave,Grab,grave,tumba,cova,خطير
 grave,Grab,grave,tumba,cova,خطير
 gravity,Schwerkraft,gravité,gravedad,gravidade,الجاذبية
 grid,Gitter,grille,cuadrícula,rede,جريد
-grief,trauern,chagrin,dolor,pesar,حزن
+grief,Trauer,chagrin,dolor,pesar,حزن
 grin,grinsen,rictus,sonrisa,sorriso,ابتسامة
 grind,mahlen,grinder,moler,moer,طَحن
 grip,greifen,adhérer,agarre,firmeza,سيطرة
@@ -1111,10 +1111,10 @@ squeeze,quetschen,presser,estrujar,espremer,يعصر
 stab,stechen,poignarder,puñalada,punhalada,طعنة
 stability,Stabilität,stabilité,estabilidad,estabilidade,المزيد
 stabilize,stabilisieren,stabiliser,estabilizar,estabilizar,يستقر
-stake,abstecken,piquet,apostar,estaca,حصة
-standing,stehen,debout,de pie,de pé,يقف
-stark,stark,stark,rígido,rígido,صارخ
-statistical,Statistik,statistique,estadístico,estatístico,إحصائية
+stake,Pflock,piquet,apostar,estaca,حصة
+standing,stehend,debout,de pie,de pé,يقف
+stark,stark,saisissant,rígido,rígido,صارخ
+statistical,statistisch,statistique,estadístico,estatístico,إحصائية
 steer,lenken,diriger,dirigir,dirigir,توجيه
 stem,Stamm,tige,provenir,tronco,إيقاف
 stereotype,Stereotyp,stéréotype,estereotipo,estereótipo,الصورة النمطية
@@ -1160,7 +1160,7 @@ supplement,ergänzen,compléter,suplemento,suplemento,ملحق
 supportive,unterstützend,soutenir,apoyo,solidário,يدعم
 supposedly,Angeblich,supposé,según cabe suponer,supostamente,يفترض
 suppress,unterdrücken,supprimer,reprimir,suprimir,كبح
-supreme,höchste,suprême,supremo,supremo,أعلى فائق
+supreme,überragend,suprême,supremo,supremo,أعلى فائق
 surge,Anstieg,surge,surge,surge,يندفع يقوة
 surgical,chirurgisch,chirurgical,quirúrgico,cirúrgico,جراحي
 surplus,Überschuss,surplus,superávit,excedente,فائض
@@ -1212,7 +1212,7 @@ tolerance,tolerieren,tolérance,tolerancia,tolerância,تفاوت
 tolerate,tolerieren,tolérer,tolerar,tolerar,تحمل
 toll,Maut,péage,peaje,pedágio,رسوم
 top,Spitze,haut,parte superior,topo,أعلى
-torture,foltern,torture,tortura,tortura,تعذيب
+torture,Folter,torture,tortura,tortura,تعذيب
 toss,werfen,toss,sacudida,sorteio,رمى
 total,total,total,total,total,المجموع
 toxic,giftig,toxique,tóxico,tóxico,سامة

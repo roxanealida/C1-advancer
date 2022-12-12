@@ -67,3 +67,6 @@ sustain,sostener
 grasp,sujetar
 bless,bendecir
 decision-making,Toma de decisiones
+march,marcha
+prejudice,prejuicio
+displace,desplazar

@@ -1,10 +1,10 @@
 recipient,Empfänger
 grind,mahlen
-supreme,höchste
-grief,trauern
-simulation,simulieren
+supreme,überragend
+grief,Trauer
+simulation,Simulation
 intent,Absicht
-stake,abstecken
+stake,Pflock
 suspicious,verdächtig
 assembly,Versammlung
 explosive,explosiv
@@ -16,3 +16,6 @@ coincide,übereinstimmen
 maintenance,Unterhaltung
 oblige,verpflichten
 plug,stopfen
+genocide,Völkermord
+carriage,Wagen
+torture,Folter

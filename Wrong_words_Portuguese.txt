@@ -7,3 +7,5 @@ precision,precisão
 eternal,eterno
 reverse,marcha ré
 concession,concessão
+threshold,limite
+casino,cassino
