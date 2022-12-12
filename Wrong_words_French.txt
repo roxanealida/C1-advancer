@@ -10,5 +10,3 @@ grid,grille
 smash,smash
 mercy,miséricorde
 adverse,défavorable
-mercy,miséricorde
-arbitrary,arbitraire
