@@ -11,14 +11,14 @@ customtkinter.set_default_color_theme(
 
 
 root = customtkinter.CTk()
-root.title("Koalengua")
+root.title("LiNGU 5000")
 root.geometry("640x390")
 root.minsize(640, 390)
 
 
-root.grid_columnconfigure(1, weight=1)
-root.grid_columnconfigure((2, 3), weight=0)
-root.grid_rowconfigure((2, 3, 4, 5, 6, 7, 8), weight=0)
+# root.grid_columnconfigure(1, weight=1)
+# root.grid_columnconfigure((2, 3), weight=0)
+# root.grid_rowconfigure((2, 3, 4, 5, 6, 7, 8), weight=0)
 
 
 # global variables
@@ -138,8 +138,10 @@ def initialize():
     is updated to ask the user the word'''
     training_state()
     global COUNTER
-    COUNTER += 1
-
+    if logo_label_trainer.cget("text")[0:3] == "No ":
+        COUNTER = 0
+    else:
+        COUNTER += 1
 
     if MODE == 1:
         with open("Df_translations.csv", "r", encoding="utf-8") as file:
