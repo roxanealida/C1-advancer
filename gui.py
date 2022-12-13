@@ -38,6 +38,8 @@ def change_appearance_mode_event(self, new_appearance_mode: str):
 
 def beginning_state():
     '''this function gets called by the set_language function'''
+    global counter_correct_words
+    global COUNTER
     start_button.configure(text="START", state="normal")
     logo_label_trainer.configure(
         text="", font=customtkinter.CTkFont(size=15, weight="bold")
@@ -45,6 +47,8 @@ def beginning_state():
     check_button.configure(state="disabled", text=" Check Word")
     set_state("disabled", exit_button)
     set_state("disabled", entry)
+    counter_correct_words = 0
+    COUNTER = 0
 
 
 def training_state():
@@ -157,10 +161,11 @@ def initialize():
     )  # dynamic: length of lines of the text file/csv file
     except:
         global EMPTY_FILE
+        global counter_correct_words
         EMPTY_FILE = 1
         logo_label_trainer.configure(
                 trainerframe,
-                text="No more words to repeat!",
+                text=f"No more words to repeat!",
                 font=customtkinter.CTkFont(size=15, weight="bold"),
             )
         logo_label_trainer.grid(row=1, column=1, columnspan=2, padx=20, pady=(10, 10))
