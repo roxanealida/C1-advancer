@@ -1,59 +1,18 @@
-offspring,descendencia
-forth,adelante
 nonsense,disparates
 grip,agarre
-momentum,impulso
-venture,empresa
-sigh,suspiro
 dissolve,disolver
-embarrassment,vergüenza
 spotlight,destacar
-eligible,elegible
-amendment,enmienda
-consensus,consenso
-regulatory,regulador
-optical,óptico
 burial,entierro
 endeavor,empeño
 realization,realización
-pulse,legumbres
-reproduction,reproducción
-reasoning,razonamiento
-module,módulo
-buffer,buffer
-deprive,privar
 large-scale,gran escala
 clash,choque
 lobby,vestíbulo
-explicitly,explícitamente
 legacy,legado
-loop,círculo
-preach,predicar
-reportedly,según se informa
 assemble,armar
-referendum,referéndum
-inability,incapacidad
-dynamic,dinámica
-cabinet,gabinete
-processing,procesando
-combat,combate
 fade,desteñir
-arbitrary,arbitrario
-stumble,tropezón
-amend,enmendar
+stumble,tropezar
 bulk,a granel
-flourish,florecer
-legislative,legislativo
-involvement,intervención
-profound,profundo
-devastate,devastar
 initiate,iniciado
-heritage,herencia
-intervene,intervenir
 obsess,obsesionar
-grasp,sujetar
-bless,bendecir
-decision-making,Toma de decisiones
-march,marcha
-prejudice,prejuicio
-displace,desplazar
+decision-making,toma de decisiones

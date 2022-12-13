@@ -82,7 +82,7 @@ aspiration,Streben,aspiration,aspiración,aspiração,طموح
 aspire,anstreben,aspirer,aspirar,aspirar,أطمح
 assassination,Attentat,assassinat,asesinato,assassinato,اغتيال
 assault,angreifen,assaut,agresión,assalto,الاعتداءات
-assemble,versammeln,assembler,armar,montar,جمعيه
+assemble,versammeln,assembler,reunir,montar,جمعيه
 assembly,Versammlung,assemblage,asamblea,conjunto,المجسم
 assert,behaupten,affirmer,afirmar,afirmar,يجزم
 assertion,Behauptung,affirmation,afirmación,afirmação,تأكيد
@@ -322,14 +322,14 @@ damaging,beschädigen,dommageable,perjudicial,prejudicial,ضار
 dawn,Morgengrauen,aube,amanecer,alvorecer,فَجر
 debris,Trümmer,débris,escombros,destroços,حطام
 debut,Debüt,début,debut,estréia,لاول مرة
-decision-making,Entscheidungsfindung,prise de décision,Toma de decisiones,tomando uma decisão,صناعة القرار
+decision-making,Entscheidungsfindung,prise de décision,toma de decisiones,tomando uma decisão,صناعة القرار
 decisive,entscheidend,décisif,decisivo,decisivo,حاسم
 declaration,Erklärung,déclaration,declaración,declaração,إعلان
 dedicated,Widmung,dédié,dedicado,dedicada,مخلص
 dedication,Widmung,dédicace,dedicación,dedicação,إخلاص
 deed,Urkunde,acte,escritura,ato,الفعل
-deem,deem,juger,considerar,considerar,تعتبر
-default,Verzug,défaut,defecto,predefinição,إفتراضي
+deem,erachten,juger,considerar,considerar,تعتبر
+default,voreingestellt,défaut,defecto,predefinição,إفتراضي
 defect,Mangel,défaut,defecto,defeito,خلل
 defensive,Einrede,défensive,defensivo,defensiva,دفاعي
 deficiency,Defizit,déficience,deficiencia,deficiência,نقص
@@ -619,7 +619,7 @@ inflict,anstecken,infliger,infligir,infligir,يلحق
 influential,einflussreich,influent,influyente,influente,مؤثر
 inherent,inhärent,inhérent,inherente,inerente,متأصل
 inhibit,hemmen,inhiber,inhibir,inibir,تعيق
-initiate,initiieren,initier,iniciado,iniciar,الشروع في
+initiate,initiieren,initier,iniciar,iniciar,الشروع في
 inject,injizieren,injecter,inyectar,injetar,حقن
 injection,Injektion,injection,inyección,injeção,حقنة
 injustice,Ungerechtigkeit,injustice,injusticia,injustiça,ظلم
@@ -1103,15 +1103,15 @@ spell,Zauberspruch,sort,deletrear,soletrar,يتهجى
 sphere,Kugel,sphère,esfera,esfera,جسم كروى
 spin,Wirbel,spin,girar,rodar,غزل
 spine,Wirbelsäule,colonne vertébrale,columna vertebral,coluna,العمود الفقري
-spotlight,Spotlight,projecteur,destacar,Holofote,بقعة ضوء
+spotlight,Spotlight,projecteur,foco,projetor,بقعة ضوء
 spouse,Ehepartner,conjoint,esposa,cônjuge,زوج
 spy,spionieren,espion,espiar,espião,الجاسوس
-squad,Kader,escouade,equipo,esquadrão,فريق
+squad,Gruppe,escouade,equipo,esquadrão,فريق
 squeeze,quetschen,presser,estrujar,espremer,يعصر
 stab,stechen,poignarder,puñalada,punhalada,طعنة
 stability,Stabilität,stabilité,estabilidad,estabilidade,المزيد
 stabilize,stabilisieren,stabiliser,estabilizar,estabilizar,يستقر
-stake,Pflock,piquet,apostar,estaca,حصة
+stake,Pflock,piquet,estaca,estaca,حصة
 standing,stehend,debout,de pie,de pé,يقف
 stark,stark,saisissant,rígido,rígido,صارخ
 statistical,statistisch,statistique,estadístico,estatístico,إحصائية
@@ -1130,7 +1130,7 @@ strip,Streifen,bande,banda,faixa,قطاع
 strip,Streifen,bande,banda,faixa,قطاع
 strive,streben,s'efforcer,luchar,esforço,السعي
 structural,strukturell,structurel,estructural,estrutural,الهيكلي
-stumble,stolpern,trébucher,tropezón,tropeçar,تعثر
+stumble,stolpern,trébucher,tropezar,tropeçar,تعثر
 stun,betäuben,étourdir,aturdir,atordoar,مذهول
 submission,Einreichung,soumission,envío,submissão,استسلام
 subscriber,Abonnent,abonné,abonado,assinante,مشترك
