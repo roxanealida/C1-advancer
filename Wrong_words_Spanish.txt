@@ -17,3 +17,7 @@ initiate,iniciado
 obsess,obsesionar
 decision-making,toma de decisiones
 seemingly,aparentemente
+harassment,acoso
+epidemic,epidemia
+desirable,deseable
+kidnap,secuestrar

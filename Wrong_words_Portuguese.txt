@@ -3,8 +3,5 @@ distinction,distinção
 coordinate,coordenada
 blast,explosão
 precision,precisão
-eternal,eterno
-reverse,marcha ré
 concession,concessão
-threshold,limite
 casino,cassino
