@@ -1,1 +1,2 @@
-# C1-advancer
+# LiNGU 5000
+# Final Project
