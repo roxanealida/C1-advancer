@@ -3,7 +3,6 @@ import random
 #While True to continue the option of training.
 
 while True:
-
     language_today = input("Which language do you want to train today? ")
     if language_today == "end":
         break

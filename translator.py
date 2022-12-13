@@ -70,7 +70,6 @@ with open("Spanish_words.txt", "r", encoding="utf-8") as f:
                             "Arabic": [get_display(arabic_reshaper.reshape(line[:-1])) for line in j.readlines()]}
 
 df = pd.DataFrame(data)
-
 df.to_csv('Df_translations.csv', index=False)
 
 
