@@ -258,7 +258,7 @@ consistency,Konsistenz,cohérence,consistencia,consistência,التناسق
 consolidate,konsolidieren,consolider,consolidar,consolidar,توطيد
 constitute,konstituieren,constituer,constituir,constituir,تشكل
 constitution,Verfassung,constitution,constitución,constituição,دستور
-constitutional,Verfassung,constitutionnel,constitucional,constitucional,دستوري
+constitutional,konstitutionell,constitutionnel,constitucional,constitucional,دستوري
 constraint,einschränken,contrainte,restricción,restrição,قيد
 consultation,Anhörung,consultation,consulta,consulta,التشاور
 contemplate,in Betracht ziehen,contempler,contemplar,contemplar,تفكر
@@ -466,7 +466,7 @@ evacuate,evakuieren,évacuer,evacuar,evacuar,إخلاء
 evoke,evozieren,évoquer,evocar,evocar,استحضار
 evolutionary,evolutionär,évolutif,evolutivo,evolutivo,تطوري
 exaggerate,übertreiben,exagérer,exagerar,exagerar,مبالغة
-excellence,hervorragend,excellence,excelencia,excelência,تفوق
+excellence,Exzellenz,excellence,excelencia,excelência,تفوق
 exceptional,außergewöhnlich,exceptionnel,excepcional,excepcional,استثنائي
 excess,Übermaß,excès,exceso,excesso,إفراط
 exclusion,Ausschluss,exclusion,exclusión,exclusão,استبعاد
@@ -914,7 +914,7 @@ probe,Untersuchung,sonder,Investigacion,sonda,مسبار
 problematic,problematisch,problématique,problemático,problemático,إشكالية
 proceeding,Verfahren,procédure,proceder,processo,الإجراء
 proceeds,Erlöse,produit,producto,produto,العائدات
-processing,Bearbeitung,traitement,Procesando,em processamento,يتم المعالجة
+processing,Bearbeitung,traitement,procesando,em processamento,يتم المعالجة
 processor,Bearbeiter,processeur,procesador,processador,المعالج
 proclaim,verkünden,proclamer,proclamar,proclamar,يعلن
 productive,produktiv,productif,productivo,produtivo,إنتاجي
@@ -1063,7 +1063,7 @@ sheer,schier,pure,escarpado,puro,محض
 shipping,Versand,expédition,Envío,envio,الشحن
 shoot,schießen,tirer,disparar,atirar,أطلق النار
 shrink,schrumpfen,rétrécir,encogerse,Psiquiatra,إنكمش
-shrug,schrumpfen,hausser les épaules,encogimiento de hombros,dar de ombros,هز كتفيه
+shrug,Achselzucken,hausser les épaules,encogimiento de hombros,dar de ombros,هز كتفيه
 sigh,seufzen,soupirer,suspiro,suspirar,تنهد
 simulate,simulieren,simuler,simular,simular,محاكاة
 simulation,Simulation,simulation,simulación,simulação,محاكاة
@@ -1078,16 +1078,16 @@ slap,klatschen,gifler,bofetada,tapa,يصفع
 slash,Schrägstrich,slash,barra oblicua,golpear,خفض
 slavery,Sklaverei,esclavage,esclavitud,escravidão,عبودية
 slot,Schlitz,fente,ranura,slot,فتحة
-smash,Schlagen,smash,aplastar,esmagar,تحطيم
-snap,schnappen,snap,siesta,foto,يفرقع، ينفجر
-soak,tränken,soak,Sumergir,absorver,نقع
+smash,Schlagen,fracasser,aplastar,esmagar,تحطيم
+snap,schnappen,faire claquer,siesta,foto,يفرقع، ينفجر
+soak,tränken,tremper,Sumergir,absorver,نقع
 soar,aufsteigen,monter,remontarse,disparar,حلق
 socialist,sozialistisch,socialiste,socialista,socialista,الاشتراكي
 sole,allein,seul,único,único,باطن القدم
 solely,ausschließlich,uniquement,solamente,exclusivamente,بمفردي
 solidarity,Solidarität,solidarité,solidaridad,solidariedade,تكافل
 solo,allein,solo,solo,sozinho,وحده
-sophomore,Sophomore,deuxième année,estudiante de segundo año,segundo ano,طالب في السنة الثانية لدراسته
+sophomore,Sophomore,étudiant en deuxième année,estudiante de segundo año,segundo ano,طالب في السنة الثانية لدراسته
 sound,Klang,son,sonido,som,يبدو
 sovereignty,souveränität,souveraineté,soberanía,soberania,سيادة
 spam,spam,spam,correo no deseado,Spam,رسائل إلكترونية مزعجة
@@ -1161,7 +1161,7 @@ supportive,unterstützend,soutenir,apoyo,solidário,يدعم
 supposedly,Angeblich,supposé,según cabe suponer,supostamente,يفترض
 suppress,unterdrücken,supprimer,reprimir,suprimir,كبح
 supreme,überragend,suprême,supremo,supremo,أعلى فائق
-surge,Anstieg,surge,surge,surge,يندفع يقوة
+surge,Anstieg,poussée,surge,surge,يندفع يقوة
 surgical,chirurgisch,chirurgical,quirúrgico,cirúrgico,جراحي
 surplus,Überschuss,surplus,superávit,excedente,فائض
 surrender,ausliefern,se rendre,Rendición,render,يستسلم

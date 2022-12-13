@@ -88,7 +88,7 @@ def get_entry_value():
 class Language:
     '''class for Language attributes (their string representation and the list
     of their positions in either the dataframe or the files for the wrong words'''
-    def _init_(self, language, positionlist):
+    def __init__(self, language, positionlist):
         self.language = language
         self.positionlist = positionlist
 

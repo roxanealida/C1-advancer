@@ -1,4 +1,3 @@
-constitutional,constitucional
 offspring,descendencia
 forth,adelante
 nonsense,disparates
@@ -13,57 +12,45 @@ eligible,elegible
 amendment,enmienda
 consensus,consenso
 regulatory,regulador
-desktop,escritorio
 optical,óptico
 burial,entierro
 endeavor,empeño
 realization,realización
 pulse,legumbres
-benchmark,punto de referencia
 reproduction,reproducción
-absent,ausente
-serial,de serie
-choir,coro
 reasoning,razonamiento
 module,módulo
 buffer,buffer
 deprive,privar
 large-scale,gran escala
 clash,choque
-banner,bandera
 lobby,vestíbulo
 explicitly,explícitamente
-incidence,incidencia
 legacy,legado
 loop,círculo
 preach,predicar
 reportedly,según se informa
 assemble,armar
-injection,inyección
 referendum,referéndum
 inability,incapacidad
-renowned,renombrado
 dynamic,dinámica
 cabinet,gabinete
-processing,Procesando
+processing,procesando
 combat,combate
 fade,desteñir
 arbitrary,arbitrario
-trauma,trauma
 stumble,tropezón
 amend,enmendar
 bulk,a granel
 flourish,florecer
 legislative,legislativo
 involvement,intervención
-blast,explosión
 profound,profundo
 devastate,devastar
 initiate,iniciado
 heritage,herencia
 intervene,intervenir
 obsess,obsesionar
-sustain,sostener
 grasp,sujetar
 bless,bendecir
 decision-making,Toma de decisiones

@@ -1,6 +1,5 @@
 content,contente
 distinction,distinção
-pop,pop
 coordinate,coordenada
 blast,explosão
 precision,precisão
