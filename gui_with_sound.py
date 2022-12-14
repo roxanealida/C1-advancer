@@ -21,6 +21,20 @@ def playThreads2():
     thread2 = threading.Thread(target = play2)
     thread2.start()
 
+def play3():
+    playsound.playsound(u"C:/Users/roxan/Redi/Projekt/ProjectTranslate/C1-advancer/success-1-6297.mp3", True)
+
+def playThreads3():
+    thread3 = threading.Thread(target = play3)
+    thread3.start()
+
+
+pygame.init()
+pygame.mixer.init()
+sound = pygame.mixer.Sound(thepath)
+sound.set_volume(0.9)   # Now plays at 90% of full volume.
+sound.play()  
+
 
 customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
 customtkinter.set_default_color_theme(
@@ -60,7 +74,7 @@ def beginning_state():
     global COUNTER
     start_button.configure(text="START", state="normal")
     logo_label_trainer.configure(
-        text="", font=customtkinter.CTkFont(size=15, weight="bold")
+        text="   ", font=customtkinter.CTkFont(size=15, weight="bold")
     )
     check_button.configure(state="disabled", text=" Check Word")
     set_state("disabled", exit_button)
@@ -83,14 +97,20 @@ def exit_state():
     global counter_correct_words
       
     start_button.configure(text="START", state="disabled")
-    logo_label_trainer.configure(
-        text="", font=customtkinter.CTkFont(size=15, weight="bold")
-    )
+    # logo_label_trainer.configure(
+    #     text="", font=customtkinter.CTkFont(size=15, weight="bold")
+    # )
     check_button.configure(state="disabled", text="Check Word")
     set_state("normal", button_German, button_French, button_Spanish, button_Portuguese)
-    logo_label_trainer.configure(
-        text=(f"Great effort. Your score is {counter_correct_words}/{COUNTER}.")
-    )
+    if COUNTER != 0:
+        logo_label_trainer.configure(
+            text=(f"Great effort. Your score is {counter_correct_words}/{COUNTER}.")
+        )
+        playThreads()
+    else:
+        logo_label_trainer.configure(
+            text=(f"   ")
+        )
     entry.delete(0, tkinter.END)
     entry.configure(state="disabled")
     set_state("disabled", exit_button)
@@ -160,7 +180,8 @@ def initialize():
     is updated to ask the user the word'''
     training_state()
     global COUNTER
-    if logo_label_trainer.cget("text")[0:3] == "No ":
+    global counter_correct_words
+    if logo_label_trainer.cget("text")[0:3] in ["No ", "   "]:
         COUNTER = 0
     else:
         COUNTER += 1
@@ -177,23 +198,32 @@ def initialize():
         rando = random.randint(
             0, (len(lines) - 1)
     )  # dynamic: length of lines of the text file/csv file
-    except:
+    except:#means the file is empty
         global EMPTY_FILE
         global counter_correct_words
         EMPTY_FILE = 1
-        logo_label_trainer.configure(
-                trainerframe,
-                text=f"No more words to repeat!",
-                font=customtkinter.CTkFont(size=15, weight="bold"),
-            )
-        logo_label_trainer.grid(row=1, column=1, columnspan=2, padx=20, pady=(10, 10))
-        start_button.configure(text="START", state="disabled")
-        check_button.configure(state="disabled", text="Check Word")
-        set_state("normal", button_German, button_French, button_Spanish, button_Portuguese)
-        entry.delete(0, tkinter.END)
-        entry.configure(state="disabled")
-        set_state("disabled", exit_button)
-        counter_correct_words = 0
+        if COUNTER != 0:
+            logo_label_trainer.configure(
+                    trainerframe,
+                    text=f"No more words to repeat!\nScore: {counter_correct_words}/{COUNTER}",
+                    font=customtkinter.CTkFont(size=15, weight="bold"),
+                )
+            logo_label_trainer.grid(row=1, column=1, columnspan=2, padx=20, pady=(10, 10))
+            playThreads()
+        else:
+            logo_label_trainer.configure(
+                    trainerframe,
+                    text=f"No more words to repeat!",
+                    font=customtkinter.CTkFont(size=15, weight="bold"),
+                )
+            logo_label_trainer.grid(row=1, column=1, columnspan=2, padx=20, pady=(10, 10))
+            start_button.configure(text="START", state="disabled")
+            check_button.configure(state="disabled", text="Check Word")
+            set_state("normal", button_German, button_French, button_Spanish, button_Portuguese)
+            entry.delete(0, tkinter.END)
+            entry.configure(state="disabled")
+            set_state("disabled", exit_button)
+            counter_correct_words = 0
 
     global WORD_LINE
     WORD_LINE = lines[rando].split(",")
@@ -241,8 +271,7 @@ def check_word_button():
                 text="New Word", font=customtkinter.CTkFont(size=13, weight="bold")
             )
             start_button.configure(state="normal")
-            root.update()
-            playThreads()
+            playThreads3()
         else:
             logo_label_trainer.configure(
                 trainerframe,
@@ -317,7 +346,7 @@ def check_word_enter(event):
                 text="New Word", font=customtkinter.CTkFont(size=13, weight="bold")
             )
             start_button.configure(state="normal")
-            playThreads()
+            playThreads3()
         else:
             logo_label_trainer.configure(
                 trainerframe,
