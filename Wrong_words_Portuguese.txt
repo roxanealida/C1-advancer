@@ -1,7 +1,0 @@
-content,contente
-distinction,distinção
-coordinate,coordenada
-blast,explosão
-precision,precisão
-concession,concessão
-casino,cassino

@@ -1,0 +1,7 @@
+carriage,Wagen
+offspring,Nachkommenschaft
+abolish,abschaffen
+dictate,diktieren
+discretion,Diskretion
+conceive,konzipieren
+resistance,Widerstand

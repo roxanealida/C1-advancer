@@ -140,7 +140,7 @@ def initialize():
         COUNTER += 1
 
     if MODE == 1:
-        with open("Df_translations.csv", "r", encoding="utf-8") as file:
+        with open("Final_Df.csv", "r", encoding="utf-8") as file:
             lines = file.read().splitlines()
             position_of_language = positions[0]
     elif MODE == 0:
