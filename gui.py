@@ -16,11 +16,6 @@ root.geometry("640x390")
 root.minsize(640, 390)
 
 
-# root.grid_columnconfigure(1, weight=1)
-# root.grid_columnconfigure((2, 3), weight=0)
-# root.grid_rowconfigure((2, 3, 4, 5, 6, 7, 8), weight=0)
-
-
 # global variables
 LANGUAGE_TODAY = "some language"
 MODE = 0
@@ -30,12 +25,9 @@ COUNTER = 0
 counter_correct_words = 0
 EMPTY_FILE = 0
 
-def change_appearance_mode_event(self, new_appearance_mode: str):
-        customtkinter.set_appearance_mode(new_appearance_mode)
 
 # Create functions for each state of the buttons (normal/disabled) depending on whether
 # the state is before the training, during the training, or after:
-
 def beginning_state():
     '''this function gets called by the set_language function'''
     global counter_correct_words
@@ -178,7 +170,6 @@ def initialize():
         counter_correct_words = 0
 
     global WORD_LINE
-
     WORD_LINE = lines[rando].split(",")
     global word
     word = WORD_LINE[position_of_language]
@@ -205,12 +196,12 @@ def check_word_button():
     if input1 == word:
         if logo_label_trainer.cget("text")[0:3] == "Wha":
             if MODE == 0:
-                with open(f"Wrong_words_{LANGUAGE_TODAY}.txt", "r", encoding = "utf-8") as file1:
-                    lines = file1.readlines()
-                with open(f"Wrong_words_{LANGUAGE_TODAY}.txt", "w", encoding = "utf-8") as file2:
+                with open(f"Wrong_words_{LANGUAGE_TODAY}.txt", "r", encoding = "utf-8") as file3:
+                    lines = file3.readlines()
+                with open(f"Wrong_words_{LANGUAGE_TODAY}.txt", "w", encoding = "utf-8") as file4:
                     for line in lines:
                         if line.strip("\n") != f"{WORD_LINE[0]},{word}":
-                            file2.write(line)
+                            file4.write(line)
             counter_correct_words += 1
             logo_label_trainer.configure(
                 trainerframe,
@@ -224,19 +215,7 @@ def check_word_button():
                 text="New Word", font=customtkinter.CTkFont(size=13, weight="bold")
             )
             start_button.configure(state="normal")
-            counter_correct_words += 1
-            logo_label_trainer.configure(
-                trainerframe,
-                text="Good job! +1 point",
-                font=customtkinter.CTkFont(size=15, weight="bold"),
-            )
-            logo_label_trainer.grid(row=1, column=1, columnspan=2, padx=20, pady=(10, 10))
-            start_button.configure(
-                text="New Word", font=customtkinter.CTkFont(size=13, weight="bold")
-            )
-            start_button.configure(state="normal")
-            set_state("disabled", check_button)
-            entry.delete(0, tkinter.END)
+            root.update()
         else:
             logo_label_trainer.configure(
                 trainerframe,
