@@ -37,7 +37,7 @@ aesthetic,Ästhetik,esthétique,estético,estético,جمالي
 affection,Zuneigung,affection,cariño,afeição,تاثير
 aftermath,Nachwirkungen,séquelles,secuelas,resultado,ما بعد الكارثة
 aggression,Aggression,agression,agresión,agressão,عدوان
-agricultural,Landwirtschaft,agricole,agrícola,agrícola,زراعي
+agricultural,landwirtschaftlich,agricole,agrícola,agrícola,زراعي
 aide,Hilfe,aide,ayudante,ajudante,مساعد
 alert,aufmerksam,alerte,alerta,alerta,إنذار
 alien,Außerirdischer,étranger,extraterrestre,estrangeiro,كائن فضائي
@@ -51,7 +51,7 @@ alliance,Allianz,alliance,alianza,aliança,تحالف
 allocate,zuordnen,allouer,asignar,distribuir,تخصيص
 allocation,Zuweisung,allocation,asignación,alocação,توزيع
 allowance,Vergütung,allocation,tolerancia,mesada,مخصص
-ally,verbünden,allié,aliado,aliado,حليف
+ally,Verbündete(r),allié,aliado,aliado,حليف
 aluminum,Aluminium,aluminium,aluminio,alumínio,الألومنيوم
 amateur,Amateur,amateur,aficionado,amador,هواة
 ambassador,Botschafter,ambassadeur,embajador,embaixador,سفير
@@ -186,7 +186,7 @@ circulate,zirkulieren,circuler,circular,circular,تعميم
 circulation,Auflage,circulation,circulación,circulação,الدوران
 citizenship,Staatsbürgerschaft,citoyenneté,ciudadanía,cidadania,المواطنة
 civic,staatsbürgerlich,civique,cívico,cívico,مدني
-civilian,zivil,civil,civil,civil,مدني
+civilian,Zivilist,civil,civil,civil,مدني
 clarity,Klarheit,clarté,claridad,clareza,وضوح
 clash,Zusammenstoß,conflit,choque,choque,اشتباك
 classification,Einstufung,classification,clasificación,classificação,تصنيف
@@ -236,7 +236,7 @@ concede,zugestehen,concéder,concede,conceder,تتنازل
 conceive,begreifen,concevoir,concebir,conceber,تحديد
 conception,konzipieren,conception,concepción,concepção,تصور
 concession,Zugeständnis,concession,concesión,concessão,تنازل
-condemn,Verurteilen,condamner,condenar,condenar,ادانة
+condemn,verurteilen,condamner,condenar,condenar,ادانة
 confer,konferieren,conférer,conferir,conferir,تشاور
 confession,Geständnis,aveu,confesión,confissão,اعتراف
 configuration,Gestaltung,configuration,configuración,configuração,ترتيب
@@ -428,7 +428,7 @@ eligible,wählbar,éligible,elegible,elegível,مؤهل
 elite,elite,élite,élite,elite,نخبة
 embark,einsteigen,embarquer,embarcar,embarcar,الشروع
 embarrassment,peinlich,embarquer,vergüenza,embaraço,إحراج
-embassy,botschaft,ambassade,embajada,embaixada,السفارة
+embassy,Botschaft,ambassade,embajada,embaixada,السفارة
 embed,einbetten,embarquer,empotrar,Embutir,تضمين
 embody,verkörpern,incarner,encarnar,incorporar,جسد
 emergence,Auftauchen,émergence,aparición,emergência,ظهور
@@ -567,7 +567,7 @@ hardware,Hardware,matériel,hardware,hardware,المعدات
 harmony,Harmonie,harmonie,armonía,harmonia,انسجام
 harsh,harsch,sévère,duro,severo,صارِم
 harvest,ernten,récolte,cosecha,colheita,محصول
-hatred,hass,haine,odio,ódio,كراهية
+hatred,Hass,haine,odio,ódio,كراهية
 haunt,spuken,hanter,guarida,assombro,تطارد
 hazard,Gefahr,danger,peligro,perigo,خطر
 heighten,Erhöhen,augmenter,aumentar,aumentar,تصعد
@@ -773,7 +773,7 @@ ministry,Ministerium,ministère,ministerio,ministério,الوزارة
 minute,Minute,minute,minuto,minuto,اللحظة
 miracle,Wunder,miracle,milagro,milagre,معجزة
 misery,Elend,misère,miseria,miséria,بؤس
-misleading,Irreführung,trompeur,engañoso,errôneo,مضلل
+misleading,irreführend,trompeur,engañoso,errôneo,مضلل
 missile,Rakete,missile,misil,míssil,صاروخ
 mob,Mob,foule,dolor,dor,الم
 mobile,mobil,mobile,móvil,Móvel,التليفون المحمول
@@ -823,7 +823,7 @@ odds,Quoten,chances,posibilidades,chances,احتمال
 offering,Angebot,offre,ofrecimiento,oferta,عرض
 offspring,Nachkommenschaft,progéniture,descendencia,filhos,النسل
 operational,betrieblich,opérationnel,Operacional,operacional,التشغيل
-opt,opt,opt,optar,optar,يختار، يقرر
+opt,entscheiden,opt,optar,optar,يختار، يقرر
 optical,optisch,optique,óptico,óptico,بصري
 optimism,Optimismus,optimisme,optimismo,otimismo,التفاؤل
 oral,mündlich,oral,oral,oral,عن طريق الفم
@@ -856,7 +856,7 @@ pathway,Weg,sentier,ruta,caminho,مسار
 patrol,Patrouille,patrouille,patrulla,patrulha,دورية
 patron,Schutzpatron,patron,patrón,patrono,كفيل
 peak,Spitze,pic,cima,pico,قمة
-peasant,bäuerlich,paysan,campesino,camponês,فلاح
+peasant,Bauer,paysan,campesino,camponês,فلاح
 peculiar,eigenartig,particulier,peculiar,peculiar,غَيْرُ مَأْلُوف
 pension,Rente,pension,pensión,pensão,راتب تقاعد
 persist,beharren,persister,persistir,persistir,ثابر
@@ -900,9 +900,9 @@ prescription,rezeptpflichtig,prescription,prescripción,prescrição,وصفة ط
 presently,gegenwärtig,actuellement,ahora,atualmente,حاليا
 preservation,Erhaltung,présider,preservación,preservação,الحفظ
 preside,vorsitz,présider,preside,presidir,رئاسة
-presidency,präsidentschaft,présidence,presidencia,presidência,رئاسة
+presidency,Präsidentschaft,présidence,presidencia,presidência,رئاسة
 prestigious,prestigeträchtig,prestigieux,prestigioso,Prestigiado,مرموقة
-presumably,Vermutlich,vraisemblablement,presumiblemente,presumivelmente,محتمل
+presumably,vermutlich,vraisemblablement,presumiblemente,presumivelmente,محتمل
 presume,vermuten,présumer,presumir,presumir,افترض
 prevail,vorherrschen,prévaloir,prevalecer,prevalecer,تسود
 prevalence,Prävalenz,prévalence,predominio,prevalência,انتشار
@@ -1103,7 +1103,7 @@ spell,Zauberspruch,sort,deletrear,soletrar,يتهجى
 sphere,Kugel,sphère,esfera,esfera,جسم كروى
 spin,Wirbel,spin,girar,rodar,غزل
 spine,Wirbelsäule,colonne vertébrale,columna vertebral,coluna,العمود الفقري
-spotlight,Spotlight,projecteur,foco,projetor,بقعة ضوء
+spotlight,Scheinwerfer,projecteur,foco,projetor,بقعة ضوء
 spouse,Ehepartner,conjoint,esposa,cônjuge,زوج
 spy,spionieren,espion,espiar,espião,الجاسوس
 squad,Gruppe,escouade,equipo,esquadrão,فريق
@@ -1158,7 +1158,7 @@ supervision,Aufsicht,supervision,supervisión,supervisão,إشراف
 supervisor,Aufsichtsperson,superviseur,supervisor,Supervisor,مشرف
 supplement,ergänzen,compléter,suplemento,suplemento,ملحق
 supportive,unterstützend,soutenir,apoyo,solidário,يدعم
-supposedly,Angeblich,supposé,según cabe suponer,supostamente,يفترض
+supposedly,angeblich,supposé,según cabe suponer,supostamente,يفترض
 suppress,unterdrücken,supprimer,reprimir,suprimir,كبح
 supreme,überragend,suprême,supremo,supremo,أعلى فائق
 surge,Anstieg,poussée,surge,surge,يندفع يقوة
@@ -1207,7 +1207,7 @@ tide,Gezeiten,marée,marea,maré,المد
 tighten,anziehen,serrer,apretar,apertar,تشديد
 timber,Holz,bois,madera,madeira,خشب
 timely,pünktlich,opportun,oportuno,oportuno,في الوقت المناسب
-tobacco,tabak,tabac,tabaco,tabaco,تبغ
+tobacco,Tabak,tabac,tabaco,tabaco,تبغ
 tolerance,tolerieren,tolérance,tolerancia,tolerância,تفاوت
 tolerate,tolerieren,tolérer,tolerar,tolerar,تحمل
 toll,Maut,péage,peaje,pedágio,رسوم
@@ -1263,7 +1263,7 @@ validity,Gültigkeit,validité,validez,validade,صلاحية
 vanish,verschwinden,disparaître,desaparecer,desaparecer,تلاشى
 variable,variabel,variable,variable,variável,عامل
 varied,variabel,varié,variado,variado,متنوع
-vein,Maserung,veine,vena,veia,الوريد
+vein,Vene,veine,vena,veia,الوريد
 venture,wagen,aventure,empresa,risco,المغامر
 verbal,verbal,verbal,verbal,verbal,لفظي
 verdict,Urteil,verdict,veredicto,veredito,حكم
@@ -1309,4 +1309,4 @@ worship,Anbetung,culte,Adoración,adoração,يعبد
 worthwhile,wertvoll,digne d'intérêt,vale la pena,que vale a pena,جدير بالاهتمام
 worthy,würdig,digne,valioso,valioso,ذو قيمة
 yell,schreien,crier,gritar,gritar,قال بصوت عال
-yield,nachgeben,produir,rendir,colheita,أَثْمَر
+yield,abgeben,produir,rendir,colheita,أَثْمَر

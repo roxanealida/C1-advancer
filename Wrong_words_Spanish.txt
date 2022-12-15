@@ -1,0 +1,2 @@
+inspect,inspeccionar
+reliability,fiabilidad
