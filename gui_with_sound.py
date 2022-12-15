@@ -29,11 +29,6 @@ def playThreads3():
     thread3.start()
 
 
-pygame.init()
-pygame.mixer.init()
-sound = pygame.mixer.Sound(thepath)
-sound.set_volume(0.9)   # Now plays at 90% of full volume.
-sound.play()  
 
 
 customtkinter.set_appearance_mode("Dark")  # Modes: "System" (standard), "Dark", "Light"
@@ -102,7 +97,7 @@ def exit_state():
     # )
     check_button.configure(state="disabled", text="Check Word")
     set_state("normal", button_German, button_French, button_Spanish, button_Portuguese)
-    if COUNTER != 0:
+    if COUNTER != 0 and logo_label_trainer.cget("text")[:3]!= "Gre":
         logo_label_trainer.configure(
             text=(f"Great effort. Your score is {counter_correct_words}/{COUNTER}.")
         )
@@ -181,8 +176,10 @@ def initialize():
     training_state()
     global COUNTER
     global counter_correct_words
+    
     if logo_label_trainer.cget("text")[0:3] in ["No ", "   "]:
         COUNTER = 0
+        print(f"Counter was set to zero in initialize loop.\n Current positive: {counter_correct_words}")
     else:
         COUNTER += 1
 
@@ -190,7 +187,7 @@ def initialize():
         with open("Df_translations.csv", "r", encoding="utf-8") as file:
             lines = file.read().splitlines()
             position_of_language = positions[0]
-    elif MODE == 0:
+    elif MODE == 0: 
         with open(f"Wrong_words_{LANGUAGE_TODAY}.txt", "r", encoding="utf-8") as file2:
             lines = file2.read().splitlines()
             position_of_language = positions[1]
@@ -200,7 +197,6 @@ def initialize():
     )  # dynamic: length of lines of the text file/csv file
     except:#means the file is empty
         global EMPTY_FILE
-        global counter_correct_words
         EMPTY_FILE = 1
         if COUNTER != 0:
             logo_label_trainer.configure(
@@ -369,10 +365,10 @@ def check_word_enter(event):
             text=f"{WORD_LINE[0]}", font=customtkinter.CTkFont(size=13, weight="bold")
         )
         if logo_label_trainer.cget("text")[0:3] == "Wha":
-            entry.delete(0, tkinter.END)
             logo_label_trainer.configure(
                 text=(f"Not correct. The word starts with {word[:2]}")
             )
+            entry.delete(0, tkinter.END)
         elif logo_label_trainer.cget("text")[0:3] == "Not":
             logo_label_trainer.configure(text=f"Type the word {word}.")
             entry.delete(0, tkinter.END)
